@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
-    <img alt="Tela de login netflix" src="./github/telaLogin.png" width="100%">
+    <img src="./githib/telaLogin.png" alt="Tela de login" width="100%">
 </p>
 
 ## 🚀 Tecnologias
